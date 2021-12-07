@@ -65,7 +65,6 @@ namespace DeleteMiddleNode
             head.next.next = NewNode(3);
             head.next.next.next = NewNode(4);
             head.next.next.next.next = NewNode(5);
-            head.next.next.next.next.next = NewNode(6);
 
             Console.WriteLine("İlk Linked List");
             PrintList(head);
