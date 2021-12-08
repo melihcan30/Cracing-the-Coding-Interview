@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace CracingTheCodingInterview
-{   //Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions SAYFA NO: 95 SORU: 2.5 ÇÖZÜMÜ
+{   //Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions SAYFA NO: 95 SORU: 2.5 çözümü
     class SumsList
     {
         class Node
